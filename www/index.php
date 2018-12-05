@@ -227,7 +227,7 @@
   <label class="label">Процент
 в день</label>
   <div class="control  has-icons-left">
-    <input class="input is-small is-rounded" type="text" placeholder="" required name="d_persent_day">
+    <input class="input is-small is-rounded" type="text" placeholder="" required name="d_percent_day">
     <span class="icon is-small is-left">
       <i class="fas fa-percent"></i>
     </span>

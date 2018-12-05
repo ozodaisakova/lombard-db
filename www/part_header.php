@@ -7,7 +7,8 @@
     <link rel="stylesheet" href="css/bulma.min.css">
     <link rel="stylesheet" href="css/all.css">
     <link rel="stylesheet" type="text/css" href="tables/datatables.min.css"/>
-    <link rel="stylesheet" href="css/flatpickr.min.css">
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="tables/datatables.min.js"></script>
     <style media="screen">
       .navbar{
         box-shadow: 0px 0px 5px grey;
